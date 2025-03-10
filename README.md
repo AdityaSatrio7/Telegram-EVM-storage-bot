@@ -4,9 +4,9 @@ How the Bot Works:
 2. The user sends their wallet address
 3. The bot validates the address using both regex and Web3 validation
 4. If valid, the bot stores:
-  Telegram user ID
-  Telegram username (if available)
-  Wallet address
+  Telegram user ID,
+  Telegram username (if available),
+  Wallet address,
   Registration timestamp
 
 5. The bot confirms successful registration to the user
